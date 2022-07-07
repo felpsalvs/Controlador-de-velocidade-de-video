@@ -1,4 +1,5 @@
 # Controlador de velocidade de video
+![image](https://user-images.githubusercontent.com/78622458/177830342-d0c46fde-3e28-432b-89e5-bc6257bf508c.png)
 
 ### Sobre
 Diferente de um outro desafio que fizemos para criar todo o player de vídeo, nesse manipulamos somente a velocidade do vídeo, já com um player do próprio navegador.
