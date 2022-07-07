@@ -4,9 +4,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #4C4C4C url('https://unsplash.it/1500/900?image=1021');
-    background-size: cover;
     font-family: sans-serif;
+    background: linear-gradient(-170deg, #2376ae 0%, #c16ecf 100%);
   }
   
   .wrapper {
